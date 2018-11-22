@@ -1,0 +1,9 @@
+languageCode = "en-us"
+contentdir = "content"
+publishdir = "public"
+builddrafts = false
+baseUrl = "http://example.org"
+canonifyurls = true
+title = "Ace Eldeib"
+author = "Ace Eldeib"
+theme = "bootstrap"
