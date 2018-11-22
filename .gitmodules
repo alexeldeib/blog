@@ -1,0 +1,4 @@
+[submodule "docs"]
+	path = docs
+	url = git@github.com:alexeldeib/alexeldeib.acebutt.xyz.git
+	branch = master
