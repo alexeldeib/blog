@@ -1,6 +1,6 @@
 languageCode = "en-us"
 contentdir = "content"
-publishdir = "public"
+publishdir = "docs"
 builddrafts = false
 baseUrl = "http://example.org"
 canonifyurls = true
