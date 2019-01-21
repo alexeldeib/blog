@@ -1,9 +1,9 @@
-languageCode = "en-us"
-contentdir = "content"
-publishdir = "docs"
-builddrafts = false
-baseUrl = "https://alexeldeib.xyz"
-canonifyurls = true
-title = "Ace Eldeib"
 author = "Ace Eldeib"
+baseUrl = "https://alexeldeib.xyz"
+builddrafts = false
+canonifyurls = true
+contentdir = "content"
+languageCode = "en-us"
+publishdir = "docs"
 theme = "bootstrap"
+title = "Ace Eldeib"
