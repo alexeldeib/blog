@@ -23,6 +23,6 @@ build:
   publish_env:
   - HUGO_ENV=production
   - HUGO_VERSION=0.53
-  preview_output_directory: public
+  preview_output_directory: docs
   output_directory: public
 version: '0.53'
