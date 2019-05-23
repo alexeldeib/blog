@@ -1,0 +1,11 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Blog"
+theme = "athena"
+
+[params]
+description = ""
+dateform = "Jan 2, 2006"
+disable_next_prev = true
+github_repo = "blog"
+github_username = "alexeldeib"
